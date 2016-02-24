@@ -1,4 +1,4 @@
-      <?php
+<?php
       //configuracoes gerais
       require_once "app/config/Config.inc.php";
       //carrega a aplicacao
